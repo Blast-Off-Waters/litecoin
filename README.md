@@ -1,4 +1,5 @@
 Bowcoin Core Info 
+------------------
 What is Bowcoin? 
 Bowcoin is a cryptocurrency made by Blast Off Waters LLC to help everyone. This cryptocurrency is based on Litecoin. For more info, go to https:/
 blastoffwaters.wixsite.com/bowcoin. 
